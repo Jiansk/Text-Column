@@ -3,4 +3,4 @@
 
 author: jian villanueva
 
-github pages:
+github pages:https://jiansk.github.io/Text-Column/
