@@ -1,0 +1,21 @@
+h1 {
+    background-color: CornflowerBlue;
+    color: MistyRose;
+    padding: 25px;
+    margin: 20px;
+    text-align: center;
+    border: 10px solid;
+  }
+  h2 {
+    color: teal;
+  /*   background-color: lavender; */
+  /*   padding: 25px; */
+  }
+  body {
+  /*   font-family: sans-serif; */
+    font-family: "Gill Sans", sans-serif;
+  /*   font-family: Georgia, serif; */
+    line-height: 1.5
+  }
+  
+  
